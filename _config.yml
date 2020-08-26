@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+title: Sysastic
+description: Test website
+logo: https://ziad.carrd.co/assets/images/image04.jpg
+show_downloads: false
