@@ -11,7 +11,7 @@ a {
     transition: color 0.25s ease, background-color 0.25s ease, border-color 0.25s ease;
 }
 a:hover {
-    color: #888888;
+    color: #ffffff;
     text-decoration: underline;
 }
 body {
@@ -21,8 +21,4 @@ body {
   height: 100%;
   background-repeat: no-repeat;
   background-attachment: fixed;
-    moz-transition: color 0.25s ease, background-color 0.25s ease, border-color 0.25s ease;
-    webkit-transition: color 0.25s ease, background-color 0.25s ease, border-color 0.25s ease;
-    ms-transition: color 0.25s ease, background-color 0.25s ease, border-color 0.25s ease;
-    transition: color 0.25s ease, background-color 0.25s ease, border-color 0.25s ease;
 }
