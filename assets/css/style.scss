@@ -3,5 +3,12 @@
 
 @import "{{ site.theme }}";
 a {
-    color: #000000;
+    color: #fff;
 }
+a:hover {
+    color: #888;
+}
+body {
+  background-color: #782121; /* For browsers that do not support gradients */
+  background-image: linear-gradient(#782121, black); /* Standard syntax (must be last) */
+]
