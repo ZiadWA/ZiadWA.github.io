@@ -1,4 +1,3 @@
-<title>Sysastic</title>
 <h2>Ziad <b>(Zey-ad)</b> A.
 <br>Formerly known as 'Ziadey' and 'ZiadMario54321'.</h2>
 <br>
