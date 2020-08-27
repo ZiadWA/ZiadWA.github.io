@@ -1,5 +1,5 @@
 <h2>Ziad <b>(Zey-ad)</b> A.
-<br>Formerly known as 'Ziadey' and 'ZiadMario54321'.</h2>
+<br>Formerly known as 'Ziadey' and 'ziadmario54321'.</h2>
 <br>
 I'm a male minor from Egypt. I'm an operating system fanatic, specifically for Microsoft Windows and Linux.
 I use legacy, old hardware.
